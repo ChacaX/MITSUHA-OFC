@@ -10,4 +10,9 @@
 <a href="https://github.com/MITSUHA-OFC/followers"><img title="Followers" src="https://img.shields.io/github/followers/MITSUHA-OFC?color=blue&style=flat-square"></a>
 <a href="https://github.com/MITSUHA-OFC/Whatsapp-Botz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MITSUHA-OFC/Whatsapp-Botz?color=red&style=flat-square"></a>
 <a href="https://github.com/MITSUHA-OFC/Whatsapp-Botz/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MITSUHA-OFC/Whatsapp-Botz?label=Watchers&color=blue&style=flat-square"></a>
-<center><marquee scrollamount="10" behavior="alternate" width="100%"><font size="6"><font color="black">______________________</font></marquee></font></center></font size="1" color="red"></marquee width="100%">
+<p align="center">
+<a href="wa.me/6285731261728"><img title="Contact Me" src="https://img.shields.io/badge/Contack-Whatsapp -green.svg?style=for-the-badge&logo=whatsapp"></a>
+</p>
+<p align="center">
+<a href="youtube.com/Mitsuha_Chan"><img title="Chanel" src="https://img.shields.io/badge/Chanel-Youtube -red.svg?style=for-the-badge&logo=youtube"></a>
+
