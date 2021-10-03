@@ -15,4 +15,3 @@
 </p>
 <p align="center">
 <a href="https://youtube.com/Mitsuha_Chan"><img title="Chanel" src="https://img.shields.io/badge/Chanel-Youtube -red.svg?style=for-the-badge&logo=youtube"></a>
-<center><audio autoplay="autoplay" controls="controls" src="https://l.top4top.io/m_1966umiqp0.mp3"></audio></a></center>
