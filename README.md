@@ -1,0 +1,13 @@
+<center><img src ="https://c.top4top.io/p_2098htu7c0.jpeg"width="320px"height="320px"></center>
+
+<p align="center">
+<a href="#"><img title="Whatsapp-Botz" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/MITSUHA-OFC"><img title="Author" src="https://img.shields.io/badge/Author-mitsuha -red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/MITSUHA-OFC/followers"><img title="Followers" src="https://img.shields.io/github/followers/MITSUHA-OFC?color=blue&style=flat-square"></a>
+<a href="https://github.com/MITSUHA-OFC/Whatsapp-Botz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MITSUHA-OFC/Whatsapp-Botz?color=red&style=flat-square"></a>
+<a href="https://github.com/MITSUHA-OFC/Whatsapp-Botz/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MITSUHA-OFC/Whatsapp-Botz?label=Watchers&color=blue&style=flat-square"></a>
+<center><marquee scrollamount="10" behavior="alternate" width="100%"><font size="6"><font color="black">______________________</font></marquee></font></center></font size="1" color="red"></marquee width="100%">
